@@ -1,0 +1,1 @@
+SwiftUIで作成したiPhoneの電卓風アプリです。
