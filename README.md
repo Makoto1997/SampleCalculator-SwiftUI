@@ -1,1 +1,1 @@
-SwiftUIで作成したiPhoneの電卓風アプリです。
+SwiftUIで作成したiPhoneの電卓アプリ風のサンプルです。
